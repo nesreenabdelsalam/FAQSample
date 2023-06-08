@@ -1,5 +1,198 @@
 [
-{Question:'How to add article in DoZen?',
-Answer : 'FRom CMS'
+{
+"category": "Society & Culture",
+"id": "639c9db2929b90846f2fc998",
+"correctAnswer": "Vishnu",
+"incorrectAnswers": [
+"Brahma",
+"Brihaspati",
+"Krishna"
+],
+"question": "What is the name of the Hindu god of preservation?",
+"tags": [
+"hinduism",
+"religion",
+"society_and_culture"
+],
+"type": "Multiple Choice",
+"difficulty": "hard",
+"regions": [],
+"isNiche": false
+},
+{
+"category": "Society & Culture",
+"id": "6293ec1d7f41d6338b96eed8",
+"correctAnswer": "Thomas Edison",
+"incorrectAnswers": [
+"Gregory Pincus",
+"Alexander Graham Bell",
+"James Watt"
+],
+"question": "Which influential inventor and businessman helped introduce electricity and electric light bulbs?",
+"tags": [
+"society_and_culture",
+"science",
+"people",
+"inventions"
+],
+"type": "Multiple Choice",
+"difficulty": "medium",
+"regions": [],
+"isNiche": false
+},
+{
+"category": "Geography",
+"id": "62602d584b176d54800e3c91",
+"correctAnswer": "Italy",
+"incorrectAnswers": [
+"Iceland",
+"Finland",
+"Slovakia"
+],
+"question": "In which country is the city of Rome?",
+"tags": [
+"cities",
+"europe",
+"geography"
+],
+"type": "Multiple Choice",
+"difficulty": "easy",
+"regions": [],
+"isNiche": false
+},
+{
+"category": "Arts & Literature",
+"id": "622a1c397cc59eab6f950eab",
+"correctAnswer": "J. K. Rowling",
+"incorrectAnswers": [
+"Christopher Tolkien",
+"Philip Pullman",
+"C. S. Lewis"
+],
+"question": "Which author wrote 'Harry Potter and the Order of the Phoenix'?",
+"tags": [
+"harry_potter",
+"literature",
+"arts_and_literature"
+],
+"type": "Multiple Choice",
+"difficulty": "easy",
+"regions": [],
+"isNiche": false
+},
+{
+"category": "Film & TV",
+"id": "625740b29da29df7b05f73f1",
+"correctAnswer": "An Army Medic refuses to kill and receives the Medal of Honor without firing a shot.",
+"incorrectAnswers": [
+"After his son is captured and taken to Sydney, a clownfish sets out on a journey to bring him home.",
+"A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+"The son of a former boxer is trained by his father for a mixed martial arts tournament."
+],
+"question": "What is the plot of the movie Hacksaw Ridge?",
+"tags": [
+"film",
+"film_and_tv"
+],
+"type": "Multiple Choice",
+"difficulty": "hard",
+"regions": [],
+"isNiche": false
+},
+{
+"category": "Geography",
+"id": "623735d1cfe13103f55eb570",
+"correctAnswer": "Sierra Leone",
+"incorrectAnswers": [
+"Slovenia",
+"Slovakia",
+"Sri Lanka"
+],
+"question": "Which region of the world uses '.sl' at the end of its web addresses?",
+"tags": [
+"geography"
+],
+"type": "Multiple Choice",
+"difficulty": "hard",
+"regions": [],
+"isNiche": false
+},
+{
+"category": "Geography",
+"id": "622a1c387cc59eab6f950aed",
+"correctAnswer": "France",
+"incorrectAnswers": [
+"Liechtenstein",
+"Slovenia",
+"San Marino"
+],
+"question": "Which of these countries borders Germany?",
+"tags": [
+"germany",
+"europe",
+"geography"
+],
+"type": "Multiple Choice",
+"difficulty": "medium",
+"regions": [],
+"isNiche": false
+},
+{
+"category": "Geography",
+"id": "623375c162eaad73716a86c5",
+"correctAnswer": "Nova Scotia",
+"incorrectAnswers": [
+"Quebec",
+"Labrador",
+"Alberta"
+],
+"question": "Halifax is the capital of which Canadian province?",
+"tags": [
+"canada",
+"geography"
+],
+"type": "Multiple Choice",
+"difficulty": "medium",
+"regions": [],
+"isNiche": false
+},
+{
+"category": "Food & Drink",
+"id": "622a1c3b7cc59eab6f9515d8",
+"correctAnswer": "Baked Egg",
+"incorrectAnswers": [
+"Fried Rice",
+"Roasted Chilli",
+"Boiled Corn"
+],
+"question": "From what is the Mexican dish huevos rancheros made?",
+"tags": [
+"food_and_drink"
+],
+"type": "Multiple Choice",
+"difficulty": "medium",
+"regions": [],
+"isNiche": false
+},
+{
+"category": "Film & TV",
+"id": "622a1c347cc59eab6f94f8e7",
+"correctAnswer": "Robert Duvall",
+"incorrectAnswers": [
+"Samuel L. Jackson",
+"Daniel Day-Lewis",
+"Orson Welles"
+],
+"question": "Which actor played the role of Lt. Col. Bill Kilgore in Apocalypse Now?",
+"tags": [
+"people",
+"acting",
+"film",
+"film_and_tv"
+],
+"type": "Multiple Choice",
+"difficulty": "hard",
+"regions": [],
+"isNiche": false
 }
 ]
